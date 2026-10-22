@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Utkarsh290606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Utkarsh290606/LeetCode/tree/master/0344-reverse-string) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Utkarsh290606/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Utkarsh290606/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Utkarsh290606/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
